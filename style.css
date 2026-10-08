@@ -81,3 +81,8 @@ button {
   border: green 2px dotted;
   padding: 3px;
 }
+.biggerText {
+  font-size: 10px;
+  background-color: blanchedalmond;
+  border: 2px 2px burlywood;
+}
