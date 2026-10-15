@@ -86,3 +86,21 @@ button {
   background-color: blanchedalmond;
   border: 2px solid saddlebrown;
 }
+
+.gridSection {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 0;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+}
+.grdImg {
+  width: 30vw;
+  padding: 0;
+  margin: 0;
+}
